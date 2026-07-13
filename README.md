@@ -31,11 +31,7 @@ This project implements an end-to-end stock market data analysis pipeline using 
 │              data/stock_market.db (SQLite Database)             │
 └─────────────────────────────────────────────────────────────────┘
 ```
-## 📸 Screenshots
-```
-<img width="1243" height="1756" alt="Screenshot1" src="https://github.com/user-attachments/assets/22cb4ed0-7a0d-4aa7-a2aa-b90436c88505" />
 
-```
 ### Data Flow
 ```
 Yahoo Finance API → data_fetcher.py → database.py (SQLite)
@@ -45,6 +41,11 @@ Yahoo Finance API → data_fetcher.py → database.py (SQLite)
                               visualizer.py   report_generator.py
                               (HTML Charts)    (Text Reports)
 ```
+## 📸 Screenshots
+<img width="1243" height="1756" alt="Screenshot1" src="https://github.com/user-attachments/assets/1525b0ba-1b79-44a4-bb6a-ef9cb30707ad" />
+<img width="1243" height="1756" alt="Screenshot2" src="https://github.com/user-attachments/assets/d6417c90-67a5-4630-adc5-ccd5fca309f7" />
+<img width="1243" height="1756" alt="Screenshot3" src="https://github.com/user-attachments/assets/bc15704e-6674-4731-ad5b-60b16bdbf689" />
+<img width="1243" height="1756" alt="Screenshot4" src="https://github.com/user-attachments/assets/b91ed2a7-0a19-4acb-84c0-e0c9350c21d4" />
 
 ## 🗄️ Database Schema (ER Diagram)
 
