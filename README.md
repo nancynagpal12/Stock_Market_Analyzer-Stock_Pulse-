@@ -33,7 +33,7 @@ This project implements an end-to-end stock market data analysis pipeline using 
 ```
 ## 📸 Screenshots
 ```
-![Dashboard Screenshot](https://raw.githubusercontent.com/nancynagpal12/Stock_Market_Analyzer-Stock_Pulse-/main/Screenshot1.jpg)
+![Dashboard Screenshot](assets/Screenshot1.jpg)
 ```
 ### Data Flow
 ```
