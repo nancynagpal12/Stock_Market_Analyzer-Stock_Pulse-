@@ -1,0 +1,5 @@
+yfinance>=0.2.0        # Yahoo Finance API — fetches stock data (FREE, no key needed)
+pandas>=2.0.0          # Data manipulation and analysis
+plotly>=5.0.0          # Interactive chart generation
+kaleido>=0.2.0         # Export Plotly charts as PNG images
+streamlit>=1.20.0      # Web Dashboard Framework
