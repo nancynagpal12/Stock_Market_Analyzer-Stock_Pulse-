@@ -32,7 +32,7 @@ This project implements an end-to-end stock market data analysis pipeline using 
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-### Data Flow
+### 🔄 Data Flow
 ```
 Yahoo Finance API → data_fetcher.py → database.py (SQLite)
                                            ↓
