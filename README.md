@@ -1,3 +1,4 @@
+<img width="1243" height="1756" alt="Screenshot1" src="https://github.com/user-attachments/assets/22cb4ed0-7a0d-4aa7-a2aa-b90436c88505" />
 # 📈 Real-Time Stock Market Data Analysis System
 
 A comprehensive Python-based stock market analysis platform that fetches live market data via API, stores it in a relational SQL database, performs technical analysis, and generates interactive visualizations.
@@ -33,7 +34,10 @@ This project implements an end-to-end stock market data analysis pipeline using 
 ```
 ## 📸 Screenshots
 ```
-![Dashboard Screenshot](assets/Screenshot1.jpg)
+<img width="1243" height="1756" alt="Screenshot1" src="https://github.com/user-attachments/assets/0b4327a2-1a6f-48aa-a6c6-9e3ccef72886" />
+<img width="1243" height="1756" alt="Screenshot3" src="https://github.com/user-attachments/assets/11293945-c484-4d68-9fc8-88837fed2edb" />
+
+
 ```
 ### Data Flow
 ```
